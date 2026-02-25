@@ -1,0 +1,114 @@
+#  POUYE Alassane
+# Architecture : Feature Fusion (RGB+Blue Focus) + Data Augmentation
+
+gotya.jpeg 1
+tptp.jpg -1
+bbhhy.jpg -1
+nwghg.jpg -1
+sqzz.jpg 1
+cCx9.jpg -1
+bbbj66.jpg 1
+ppp08.jpg 1
+ksnw5.jpg -1
+cxvhyy.jpg -1
+hounn34.jpg -1
+q5.jpeg -1
+lityn.jpg -1
+mpha44w.jpg 1
+loupiz.jpeg -1
+ww.jpeg -1
+09hy.jpg 1
+derz.jpg 1
+kwqq2g.jpeg -1
+btr.jpg -1
+xs.jpeg 1
+fe.jpeg -1
+pooi.jpeg -1
+q1.jpeg -1
+q4.jpeg -1
+dg.jpeg 1
+loab.jpg -1
+njuu.jpg -1
+nz.jpeg -1
+zq.jpeg 1
+se.jpeg -1
+sm7r.jpg 1
+mm.jpeg 1
+q10.jpeg 1
+pm09.jpg -1
+q6.jpeg -1
+dfe.jpg -1
+bezss.JPG -1
+vbfg.JPG -1
+q3.jpeg -1
+youpi.jpg -1
+hshs2.jpg -1
+ppa11.jpg -1
+gaqll.jpg -1
+ft.jpeg -1
+oohh.jpg -1
+q2.jpeg -1
+groby.jpg 1
+wxaa.jpeg 1
+dspv6.jpg 1
+ju.jpeg 1
+rddq.jpg 1
+q9.jpeg -1
+wsqwx.jpg -1
+sql.jpg 1
+kp0x2.jpg 1
+za.jpeg 1
+xsoua.jpg 1
+mc76.jpg 1
+lkpa.jpg 1
+ct.jpeg 1
+tr0mp.jpg 1
+nxooz.jpg 1
+ut.jpeg 1
+dden.jpg 1
+t1.jpeg 1
+wq.jpeg -1
+zd.jpeg 1
+uu.jpeg 1
+mhst.jpg 1
+q8.jpeg 1
+do.jpeg -1
+ppqgq.jpg -1
+ljuucxs.jpg 1
+vvZ1.jpg 1
+lp.jpeg 1
+spme.jpg 1
+nirrz.jpg 1
+wtgt1n.jpg -1
+q12.jpeg -1
+hu.jpeg 1
+mpzva.jpg -1
+w0.jpg 1
+q11.jpeg -1
+swuia.jpg -1
+eraq.jpg -1
+y6.jpeg 1
+mlpp.jpg -1
+grate.jpg 1
+mdouu.jpeg -1
+q7.jpeg 1
+tu.jpeg 1
+wmzp.jpg 1
+phao.JPG 1
+hg.jpeg -1
+kuja1.jpg -1
+
+# === STATISTIQUES D'APPRENTISSAGE ===
+# Erreur Empirique (Modèle Final) : 0.2506
+# Erreur Réelle (Hold-Out 80/20)  : 0.3133
+# Erreur Réelle (CV 8-Folds)      : 0.3046
+
+# === RAPPORT DÉTAILLÉ (HOLD-OUT) ===
+               precision    recall  f1-score   support
+
+Ailleurs (-1)       0.65      0.72      0.68        39
+      Mer (1)       0.72      0.66      0.69        44
+
+     accuracy                           0.69        83
+    macro avg       0.69      0.69      0.69        83
+ weighted avg       0.69      0.69      0.69        83
